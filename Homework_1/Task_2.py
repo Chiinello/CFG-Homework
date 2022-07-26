@@ -4,6 +4,8 @@ import random
 # Write a base class to represent a student. Below is a starter code.
 # Feel free to add any more new features to your class.
 # As a minimum a student has a name and age and a unique ID.
+
+
 class Student:
 
     def __init__(self, name, age, unique_id):
