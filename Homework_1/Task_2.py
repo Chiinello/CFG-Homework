@@ -63,7 +63,7 @@ class CFGStudent(Student):
         return avg
 
 
-person_3 = CFGStudent("Micheal", "30", "3441")
+person_3 = CFGStudent("Michael", "30", "3441")
 
 # INTRODUCTION
 person_3.introduction()
